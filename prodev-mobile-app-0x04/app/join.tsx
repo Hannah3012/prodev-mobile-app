@@ -11,7 +11,7 @@ export default function Index() {
           <Ionicons name="arrow-back" size={25} />
           <Image source={require("@/assets/images/Logo.png")} />
         </View>
-        <Text style={styles.largeText}>Create your </Text>
+        <Text style={styles.largeText}>Create your</Text>
         <Text style={styles.largeText}>Account</Text>
         <Text style={styles.smallText}>
           Enter your email and password to sign in.
